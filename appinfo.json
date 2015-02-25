@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "alexander.648@osu.edu",
+    "longName": "hextime",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "hextime",
+    "uuid": "330aa5a4-3683-4630-92b1-4c042a9e1afc",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
